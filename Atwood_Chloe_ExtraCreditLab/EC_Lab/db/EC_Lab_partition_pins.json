@@ -1,0 +1,133 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LCD_ON",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_EN",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_RS",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LCDON",
+					"strict" : false
+				},
+				{
+					"name" : "RP0",
+					"strict" : false
+				},
+				{
+					"name" : "RP1",
+					"strict" : false
+				},
+				{
+					"name" : "RP2",
+					"strict" : false
+				},
+				{
+					"name" : "RQ0",
+					"strict" : false
+				},
+				{
+					"name" : "RQ1",
+					"strict" : false
+				},
+				{
+					"name" : "RQ2",
+					"strict" : false
+				},
+				{
+					"name" : "Board_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "InData[4]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "CLRN",
+					"strict" : false
+				},
+				{
+					"name" : "WA0",
+					"strict" : false
+				},
+				{
+					"name" : "WR",
+					"strict" : false
+				},
+				{
+					"name" : "WA2",
+					"strict" : false
+				},
+				{
+					"name" : "WA1",
+					"strict" : false
+				},
+				{
+					"name" : "InData[3]",
+					"strict" : false
+				},
+				{
+					"name" : "InData[5]",
+					"strict" : false
+				},
+				{
+					"name" : "InData[0]",
+					"strict" : false
+				},
+				{
+					"name" : "InData[1]",
+					"strict" : false
+				},
+				{
+					"name" : "InData[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

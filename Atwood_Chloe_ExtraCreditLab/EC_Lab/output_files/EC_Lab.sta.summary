@@ -1,0 +1,137 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -5.296
+TNS   : -68.423
+
+Type  : Slow 1200mV 85C Model Setup 'Board_CLK'
+Slack : -3.502
+TNS   : -101.749
+
+Type  : Slow 1200mV 85C Model Hold 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Board_CLK'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'Board_CLK'
+Slack : -1.050
+TNS   : -15.745
+
+Type  : Slow 1200mV 85C Model Recovery 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -0.692
+TNS   : -8.996
+
+Type  : Slow 1200mV 85C Model Removal 'Board_CLK'
+Slack : 0.754
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : 1.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -64.680
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Board_CLK'
+Slack : -3.000
+TNS   : -56.970
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -1.285
+TNS   : -48.830
+
+Type  : Slow 1200mV 0C Model Setup 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -4.837
+TNS   : -59.786
+
+Type  : Slow 1200mV 0C Model Setup 'Board_CLK'
+Slack : -3.152
+TNS   : -88.603
+
+Type  : Slow 1200mV 0C Model Hold 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Board_CLK'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'Board_CLK'
+Slack : -0.854
+TNS   : -11.971
+
+Type  : Slow 1200mV 0C Model Recovery 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -0.585
+TNS   : -7.605
+
+Type  : Slow 1200mV 0C Model Removal 'Board_CLK'
+Slack : 0.696
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : 0.876
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -64.680
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Board_CLK'
+Slack : -3.000
+TNS   : -56.970
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -1.285
+TNS   : -48.830
+
+Type  : Fast 1200mV 0C Model Setup 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -1.952
+TNS   : -16.681
+
+Type  : Fast 1200mV 0C Model Setup 'Board_CLK'
+Slack : -1.223
+TNS   : -27.378
+
+Type  : Fast 1200mV 0C Model Hold 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Board_CLK'
+Slack : 0.190
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Board_CLK'
+Slack : -0.059
+TNS   : -0.590
+
+Type  : Fast 1200mV 0C Model Recovery 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'Board_CLK'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -59.977
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Board_CLK'
+Slack : -3.000
+TNS   : -47.709
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'LCD:inst|LCD_Display:u1|CLK_400HZ'
+Slack : -1.000
+TNS   : -38.000
+
+------------------------------------------------------------

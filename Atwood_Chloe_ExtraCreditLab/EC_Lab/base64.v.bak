@@ -1,0 +1,4 @@
+module base64(num, hex);
+	input [5:0] num;
+	output reg [7:0] hex;
+endmodule
